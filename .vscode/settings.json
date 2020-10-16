@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/tc/Programming/Python/Miniconda3/envs/recommender/bin/python",
+    "python.formatting.provider": "yapf"
+}
